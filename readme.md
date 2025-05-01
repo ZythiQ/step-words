@@ -2,10 +2,11 @@
 
 This program uses the NLTK word corpus to find step-words (a word + letter anagrammed into another word).
 
-### Requirements
+### Setup / Requirements
 
 ```
 pip install nltk
+mkdir resources
 ```
 
 ### Commands
